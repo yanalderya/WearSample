@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title">
+        <item>Koç Burcunun Özellikleri</item>
+        <item>Boğa Burcunun Özellikleri</item>
+        <item>İkizler Burcunun Özellikleri</item>
+        <item>Yengeç Burcunun Özellikleri</item>
+        <item>Aslan Burcunun Özellikleri</item>
+        <item>Başak Burcunun Özellikleri</item>
+        <item>Terazi Burcunun Özellikleri</item>
+        <item>Akrep Burcunun Özellikleri</item>
+        <item>Yay Burcunun Özellikleri</item>
+        <item>Oğlak Burcunun Özellikleri</item>
+        <item>Kova Burcunun Özellikleri</item>
+        <item>Balık Burcunun Özellikleri</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>Magazin </item>
+        <item>Spor </item>
+        <item> Yemek </item>
+        <item> Ekonomi </item>
+        <item> Haber </item>
+        <item> Teknoloji </item>
+        <item> Bilim </item>
+        <item> Fotoğraf </item>
+        <item> Yaşam </item>
+        <item> Müzik </item>
+        <item> Kitap </item>
+        <item> Stil </item>
+    </string-array>
+</resources>
